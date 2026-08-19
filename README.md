@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanisha Raj</h1>
+<h1 align="center">Hi, I'm Tanisha Raj</h1>
 
 <h3 align="center">
 Software Developer • Full-Stack Developer • Data Analytics • AI/ML
@@ -19,37 +19,37 @@ Software Developer • Full-Stack Developer • Data Analytics • AI/ML
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 I'm a final-year B.Tech student passionate about **Software Development, Full-Stack Development, Data Analytics, and Artificial Intelligence**.
 
 I enjoy building **web applications, backend systems, and data-driven solutions** while continuously improving my problem-solving and engineering skills.
 
-- 💻 Focused on **Software Development & Full-Stack Development**
-- 🌐 Building applications with **Python, Django, Flask, JavaScript, HTML & CSS**
-- 🗄️ Working with **SQL and relational databases**
-- 📊 Exploring **Data Analytics & Business Intelligence**
-- 🤖 Interested in **Machine Learning and AI**
-- 🧩 Practicing **Data Structures & Algorithms**
-- 🚀 Turning ideas into real-world applications
+- Focused on **Software Development & Full-Stack Development**
+- Building applications with **Python, Django, Flask, JavaScript, HTML & CSS**
+- Working with **SQL and relational databases**
+- Exploring **Data Analytics & Business Intelligence**
+- Interested in **Machine Learning and AI**
+- Practicing **Data Structures & Algorithms**
+- Turning ideas into real-world applications
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
-### 💻 Software & Full-Stack Development
+### Software & Full-Stack Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,django,flask,js,html,css" />
 </p>
 
-### 📊 Data & Analytics
+### Data & Analytics
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,pandas,numpy,sklearn" />
 </p>
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
@@ -59,7 +59,7 @@ I enjoy building **web applications, backend systems, and data-driven solutions*
 
 
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
 
@@ -76,5 +76,5 @@ I enjoy building **web applications, backend systems, and data-driven solutions*
 ---
 
 <p align="center">
-<i>✨ Building. Learning. Improving. ✨</i>
+<i>Building. Learning. Improving.</i>
 </p>
