@@ -1,10 +1,23 @@
-<h1 align="center">Hi 👋, I'm Tanisha Raj</h1>
+<!-- Animated Header -->
+
+<h1 align="center">
+  Hi 👋, I'm Tanisha Raj
+</h1>
 
 <h3 align="center">
-Software Developer | Full-Stack Developer | Data Analytics | AI/ML
+  Software Developer • Full-Stack Developer • Data Analytics • AI/ML
 </h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;Full-Stack+Developer;Python+%7C+Django+%7C+JavaScript;Data+Analytics+%7C+SQL+%7C+Power+BI;Building+Real-World+Digital+Solutions" alt="Typing Animation" />
+</p>
+
+<!-- Profile Links -->
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-Visit%20Website-36BCF7?style=for-the-badge">
+  </a>
   <a href="https://github.com/tanisharaj01">
     <img src="https://img.shields.io/badge/GitHub-tanisharaj01-181717?style=for-the-badge&logo=github">
   </a>
@@ -16,45 +29,88 @@ Software Developer | Full-Stack Developer | Data Analytics | AI/ML
 
 I'm a final-year B.Tech student passionate about **Software Development, Full-Stack Development, Data Analytics, and Artificial Intelligence**.
 
-I enjoy building **scalable web applications, backend systems, and data-driven solutions**, while continuously strengthening my problem-solving and programming skills.
+I enjoy building **scalable web applications, backend systems, and data-driven solutions**, while continuously improving my problem-solving and engineering skills.
 
-- 💻 Interested in **Software Development & Full-Stack Development**
+- 💻 Focused on **Software Development & Full-Stack Development**
 - 🌐 Building applications with **Python, Django, Flask, JavaScript, HTML & CSS**
 - 🗄️ Working with **SQL and relational databases**
 - 📊 Exploring **Data Analytics & Business Intelligence**
 - 🤖 Interested in **Machine Learning and AI**
 - 🧩 Practicing **Data Structures & Algorithms**
-- 🚀 Continuously learning and building real-world applications
+- 🚀 Turning ideas into real-world applications
 
 ---
 
-## 🛠️ Technical Skills
+## ⚡ Tech Stack
 
-### Software & Full-Stack Development
+### 💻 Software & Full-Stack Development
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://skillicons.dev/icons?i=python,django,flask,js,html,css" />
 </p>
 
-### Data & Analytics
+### 📊 Data & Analytics
 
 <p>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,pandas,numpy,sklearn" />
 </p>
 
-### Tools
+### 🛠️ Tools & Platforms
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanisharaj01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisharaj01&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tanisharaj01&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tanisharaj01/tanisharaj01/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="https://github.com/tanisharaj01">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>✨ Building. Learning. Improving. ✨</i>
 </p>
