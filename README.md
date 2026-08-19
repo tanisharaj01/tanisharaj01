@@ -57,20 +57,6 @@ I enjoy building **web applications, backend systems, and data-driven solutions*
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://tanisharaj01.pythonanywhere.com/">
-  <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20Website-36BCF7?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/tanisharaj01">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
-
 ---
 
 <p align="center">
