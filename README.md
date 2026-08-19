@@ -35,40 +35,38 @@ I enjoy building **web applications, backend systems, and data-driven solutions*
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack
 
-### Software & Full-Stack Development
+### 💻 Software & Full-Stack Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,flask,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,js,html,css" />
 </p>
 
-### Data & Analytics
+### 📊 Data & Analytics
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,pandas,numpy,sklearn" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,pandas,numpy,sklearn" />
 </p>
 
-### Tools & Platforms
+### 🛠️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 ---
 
-
-
-## Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://tanisharaj01.pythonanywhere.com/">
-<img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20Website-36BCF7?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/tanisharaj01">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
@@ -76,5 +74,5 @@ I enjoy building **web applications, backend systems, and data-driven solutions*
 ---
 
 <p align="center">
-<i>Building. Learning. Improving.</i>
+  <i>Building. Learning. Improving. 🚀</i>
 </p>
